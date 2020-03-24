@@ -27,6 +27,7 @@ p {
 }
 #title {
   background-color: #ff4c68;
+
   color: #fff;
 }
 .container-fluid {
@@ -115,18 +116,21 @@ p {
   background-color: #ff4c68;
   text-align: center;
   color: #fff;
+  padding: 7% 15%;
+
 }
 .cta-title{
     font-family: "Montserrat";
-    font-weight: bold;
-    padding: 7% 15% 0;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
 }
 .cta-btn{
   margin: 3% 1%;
 }
 #footer{
   text-align: center;
-  padding: 4%
+  padding: 7% 15%;
 }
 .footer-icons{
   margin: 10px;
